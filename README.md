@@ -6,6 +6,13 @@
 I'm a full stack Data Scientist
 
 I'm a **Full Stack Data Scientist** passionate about combining  data science, machine learning, and full-stack development to create effective end-to-end solutions that solve real-world problems. I have expertise in building data pipelines, analyzing complex datasets, training machine learning models, and deploying them into production using modern web technologies. I am a highly organized team player with excellent communication skills.
+
+### :fire: My Stats :
+ 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
