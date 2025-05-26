@@ -9,9 +9,9 @@ I'm a **Full Stack Data Scientist** passionate about combining  data science, ma
 
 ### :fire: My Stats :
  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alahearty&theme=highcontrast)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=albertegi&theme=highcontrast)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alahearty&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=albertegi&theme=dracula)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
