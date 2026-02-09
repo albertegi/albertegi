@@ -71,19 +71,21 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     height="160"
   />
 
-  <!-- Top Languages (by code size) -->
+  ### Top languages by code size (compact)
+
   <a href="https://github.com/albertegi/github-readme-stats">
     <img 
-      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Code%20Size)&disable_animations=true&size_weight=1&count_weight=0" 
+      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Code%20Size)&disable_animations=true&hide_progress=true&size_weight=1&count_weight=0&exclude_repo=Cancer-Classification" 
       alt="Top Languages (by Code Size)" 
       height="160"
     />
   </a>
 
-  <!-- Top Languages (by repositories) -->
+  ### Top languages by repositories (compact)
+
   <a href="https://github.com/albertegi/github-readme-stats">
     <img 
-      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Repos)&disable_animations=true&size_weight=0&count_weight=1" 
+      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Repos)&disable_animations=true&hide_progress=true&size_weight=0&count_weight=1&exclude_repo=Cancer-Classification" 
       alt="Top Languages (by Repos)" 
       height="160"
     />
