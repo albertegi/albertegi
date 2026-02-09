@@ -71,31 +71,41 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     height="160"
   />
 
-  <p><strong>Top languages by code size (compact)</strong></p>
-
-  <a href="https://github.com/albertegi/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=1&count_weight=0&exclude_repo=Cancer-Classification" 
-      alt="Top Languages (by Code Size)" 
-      height="160"
-    />
-  </a>
-
-  <p><strong>Top languages by repositories (compact)</strong></p>
-
-  <a href="https://github.com/albertegi/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=0&count_weight=1&exclude_repo=Cancer-Classification" 
-      alt="Top Languages (by Repos)" 
-      height="160"
-    />
-  </a>
-
   <!-- Activity Graph (GitHub default theme) -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=albertegi&theme=github&hide_border=true" 
     alt="Albert's GitHub Activity Graph" 
   />
+
+</div>
+
+---
+
+## 🧩 Top Languages
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; justify-content: center;">
+
+  <div style="min-width: 320px; max-width: 420px; text-align: center;">
+    <p><strong>Top languages by code size</strong></p>
+    <a href="https://github.com/albertegi/github-readme-stats">
+      <img 
+        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=1&count_weight=0&exclude_repo=Cancer-Classification" 
+        alt="Top Languages (by Code Size)" 
+        height="160"
+      />
+    </a>
+  </div>
+
+  <div style="min-width: 320px; max-width: 420px; text-align: center;">
+    <p><strong>Top languages by repositories</strong></p>
+    <a href="https://github.com/albertegi/github-readme-stats">
+      <img 
+        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=0&count_weight=1&exclude_repo=Cancer-Classification" 
+        alt="Top Languages (by Repos)" 
+        height="160"
+      />
+    </a>
+  </div>
 
 </div>
 
