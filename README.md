@@ -61,7 +61,7 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
 
   <!-- Core Stats -->
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albertegi&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-stats.zcy.dev/api?username=albertegi&show_icons=true&theme=radical" 
     alt="Albert's GitHub stats" 
     height="160"
   />
@@ -72,11 +72,13 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
   />
 
   <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albertegi&layout=compact&langs_count=8&hide_border=true" 
-    alt="Top Languages" 
-    height="160"
-  />
+  <a href="https://github.com/albertegi/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=donut-vertical" 
+      alt="Top Languages" 
+      height="160"
+    />
+  </a>
 
   <!-- Activity Graph -->
   <img 
@@ -113,4 +115,5 @@ Profile README powered by
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>, and 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>.
 </sub>
+
 
