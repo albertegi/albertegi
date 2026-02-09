@@ -89,7 +89,7 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     <p><strong>Top languages by code size</strong></p>
     <a href="https://github.com/albertegi/github-readme-stats">
       <img 
-        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=1&count_weight=0&exclude_repo=Cancer-Classification" 
+        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&size_weight=1&count_weight=0&exclude_repo=Cancer-Classification" 
         alt="Top Languages (by Code Size)" 
         height="160"
       />
@@ -100,7 +100,7 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     <p><strong>Top languages by repositories</strong></p>
     <a href="https://github.com/albertegi/github-readme-stats">
       <img 
-        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&hide_progress=true&size_weight=0&count_weight=1&exclude_repo=Cancer-Classification" 
+        src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&disable_animations=true&size_weight=0&count_weight=1&exclude_repo=Cancer-Classification" 
         alt="Top Languages (by Repos)" 
         height="160"
       />
