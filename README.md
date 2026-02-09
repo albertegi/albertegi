@@ -1,7 +1,7 @@
 <div align="center" style="padding: 2rem 1rem; border-radius: 16px; background: linear-gradient(135deg, #0f172a, #020617); color: #e5e7eb;">
   <h1 style="margin: 0 0 0.5rem; font-size: 2.5rem;">Hi, I'm <span style="color:#38bdf8;">Albert Egi</span> 👋</h1>
   <p style="max-width: 640px; margin: 0.5rem auto 0; font-size: 0.98rem; line-height: 1.6;">
-    Senior Software Developer focused on building scalable backend systems, microservices, and production-grade AI/ML solutions.
+    Software Developer focused on building scalable backend systems, microservices, and production-grade AI/ML solutions.
     I work primarily with <strong>Java · Spring Boot · Python · PostgreSQL · Docker · Kubernetes · AWS</strong>.
   </p>
 </div>
@@ -71,18 +71,27 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     height="160"
   />
 
-  <!-- Top Languages -->
+  <!-- Top Languages (by code size) -->
   <a href="https://github.com/albertegi/github-readme-stats">
     <img 
-      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=donut-vertical" 
-      alt="Top Languages" 
+      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Code%20Size)&disable_animations=true&size_weight=1&count_weight=0" 
+      alt="Top Languages (by Code Size)" 
       height="160"
     />
   </a>
 
-  <!-- Activity Graph -->
+  <!-- Top Languages (by repositories) -->
+  <a href="https://github.com/albertegi/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=compact&langs_count=8&card_width=320&custom_title=Top%20Languages%20(by%20Repos)&disable_animations=true&size_weight=0&count_weight=1" 
+      alt="Top Languages (by Repos)" 
+      height="160"
+    />
+  </a>
+
+  <!-- Activity Graph (GitHub default theme) -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=albertegi&theme=github-compact&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=albertegi&theme=github&hide_border=true" 
     alt="Albert's GitHub Activity Graph" 
   />
 
@@ -115,5 +124,4 @@ Profile README powered by
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a>, and 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>.
 </sub>
-
 
