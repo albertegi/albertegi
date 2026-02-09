@@ -122,9 +122,9 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
 
 <div align="left">
 
-- **LinkedIn**: <a href="https://www.linkedin.com/in/albert-egi" target="_blank">linkedin.com/in/albert-egi</a>  
+- **LinkedIn**: <a href="https://www.linkedin.com/in/albert-egi-072612313" target="_blank">linkedin.com/in/albert-egi</a>  
 - **Portfolio**: <a href="https://your-portfolio-url.com" target="_blank">your-portfolio-url.com</a>  
-- **Email**: <a href="mailto:egialbert90@gmail.com">egialbert90@gmail.com</a>  
+- **Email**: <a href="mailto:egialbert90@gmail.com">albertegi90@gmail.com</a>  
 
 </div>
 
