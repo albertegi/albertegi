@@ -71,7 +71,7 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     height="160"
   />
 
-  ### Top languages by code size (compact)
+  <p><strong>Top languages by code size (compact)</strong></p>
 
   <a href="https://github.com/albertegi/github-readme-stats">
     <img 
@@ -81,7 +81,7 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
     />
   </a>
 
-  ### Top languages by repositories (compact)
+  <p><strong>Top languages by repositories (compact)</strong></p>
 
   <a href="https://github.com/albertegi/github-readme-stats">
     <img 
