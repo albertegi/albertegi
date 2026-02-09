@@ -61,19 +61,19 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
 
   <!-- Core Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=albertegi&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albertegi&show_icons=true&theme=radical&hide_border=true&count_private=true" 
     alt="Albert's GitHub stats" 
     height="160"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=albertegi&theme=radical&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=albertegi&theme=radical&hide_border=true" 
     alt="GitHub Streak" 
     height="160"
   />
 
   <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertegi&layout=compact&langs_count=8&hide_border=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albertegi&layout=compact&langs_count=8&hide_border=true" 
     alt="Top Languages" 
     height="160"
   />
