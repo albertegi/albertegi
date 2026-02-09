@@ -123,8 +123,10 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
 <div align="left">
 
 - **LinkedIn**: <a href="https://www.linkedin.com/in/albert-egi-072612313" target="_blank">linkedin.com/in/albert-egi</a>  
-- **Portfolio**: <a href="https://your-portfolio-url.com" target="_blank">your-portfolio-url.com</a>  
-- **Email**: <a href="mailto:egialbert90@gmail.com">albertegi90@gmail.com</a>  
+- **Portfolio**: <a href="https://albertegi.github.io" target="_blank">albertegi.github.io</a>  
+- **Email**: <a href="mailto:egialbert90@gmail.com">albertegi90@gmail.com</a>
+
+https://albertegi.github.io/
 
 </div>
 
