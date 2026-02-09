@@ -126,8 +126,6 @@ I enjoy owning problems end-to-end: clarifying requirements, proposing architect
 - **Portfolio**: <a href="https://albertegi.github.io" target="_blank">albertegi.github.io</a>  
 - **Email**: <a href="mailto:egialbert90@gmail.com">albertegi90@gmail.com</a>
 
-https://albertegi.github.io/
-
 </div>
 
 ---
