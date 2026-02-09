@@ -35,7 +35,7 @@ I enjoy architecting RESTful APIs, integrating ML models into production, and wo
 ![Albert's GitHub stats](https://github-readme-stats.zcy.dev/api?username=albertegi&show_icons=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=donut-vertical)](https://github.com/albertegi/github-readme-stats)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=albertegi&layout=donut-vertical)](https://github.com/albertegi/github-readme-stats)
 
 ### Top Languages (by repository / code size)
 
